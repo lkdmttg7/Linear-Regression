@@ -1,3 +1,4 @@
 # Linear-Regression
 
-Linear Regression is performed on Titanic Dataset
+This Repo contains a Jupyter Notebook.
+Linear Regression is perfomed using sklearn library on Titanic Dataset.
